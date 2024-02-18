@@ -19,7 +19,6 @@ values = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 def example():
     example_input = ["two1nine", "eightwothree", "abcone2threexyz", "xtwone3four", "4nineeightseven2", "zoneight234", "7pqrstsixteen"]
 
-    # Probably very inefficient, but don't know how to do it better
     numbers = []
 
     for ex in example_input:
